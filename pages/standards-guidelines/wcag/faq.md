@@ -102,7 +102,7 @@ To learn about web accessibility principles and guidelines, see [[Accessibility 
 
 ### What about WCAG 3? {#next}
 
-WCAG 3 years away from being completed.
+WCAG 3 is years away from being completed.
 
 WCAG 3 is the result of the project previously referred to as “Silver”.
 
@@ -281,6 +281,6 @@ WAI staff are actively developing guidelines, technical reports, and supporting 
 
 **Yes.** Authorized Translations and unofficial translations of the technical documents WCAG 2 are listed in [[WCAG 2 Translations]](/standards-guidelines/wcag/translations/).
 
-Unofficial translations of other WAI documents are listed in [[All WAI Translations]](/translations/).
+Unofficial translations of other WAI documents are listed in [All WAI Translations](/translations/).
 
 For more information on how you can contribute to WAI translations, see [[Translating WAI Documents]](/about/translating/).
